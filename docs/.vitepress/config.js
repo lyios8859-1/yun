@@ -3,7 +3,7 @@ module.exports = {
   description: "Vue3 YUN UI",
   // base: "/yun/dist/",
   themeConfig: {
-    logo: "/logo.svg",
+    logo: "/logo.png",
     socialLinks: [
       { icon: "github", link: "https://github.com/vuejs/vitepress" },
     ],
