@@ -9,7 +9,7 @@ npm run build
 
 mv docs/.vitepress/dist .
 
-mv docs/logo.png ./dist
+cp docs/logo.png ./dist
 
 
 # 如果是发布到自定义域名
