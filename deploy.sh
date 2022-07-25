@@ -3,6 +3,8 @@
 # 确保脚本抛出遇到的错误
 set -e
 
+rm -rf dist
+
 npm run build
 
 mv docs/.vitepress/dist .
