@@ -1,9 +1,9 @@
 module.exports = {
   title: "YUN-UI",
   description: "Vue3 YUN UI",
-  // base: "/yun/dist/",
+  base: "/yun/dist/",
   themeConfig: {
-    // logo: "/logo.png",
+    logo: "/logo.png",
     socialLinks: [
       { icon: "github", link: "https://github.com/vuejs/vitepress" },
     ],

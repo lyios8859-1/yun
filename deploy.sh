@@ -9,6 +9,8 @@ npm run build
 
 mv docs/.vitepress/dist .
 
+mv docs/logo.png ./dist
+
 
 # 如果是发布到自定义域名
 # echo 'www.example.com' > CNAME
