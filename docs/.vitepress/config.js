@@ -1,7 +1,7 @@
 module.exports = {
   title: "YUN-UI",
   description: "Vue3 YUN UI",
-  base: "/yun/",
+  base: "/yun/dist/",
   themeConfig: {
     logo: "/logo.svg",
     socialLinks: [
