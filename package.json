@@ -6,9 +6,13 @@
   "scripts": {
     "dev": "vitepress dev docs --open --port 8080",
     "build": "vitepress build docs",
-    "serve": "vitepress serve docs"
+    "serve": "vitepress serve docs",
+    "deploy": "sudo ./deploy.sh"
   },
   "keywords": [],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "vitepress": "^1.0.0-alpha.4"
+  }
 }
